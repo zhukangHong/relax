@@ -12,3 +12,11 @@ The properties file must has follow entry
 1. offset=0   #The progress of  book you,the unit is chinese word
 2. size=40    #The page size pre page
 3. bookUrl=e\://book.txt  #TXT absolute path 
+
+## use
+Click  Top-Toolbar path: Help-Read,it will show a windows on the Bottom-toolbar.
+**MUST HAS FOCUS ON THE PANEL**
+- Press 'q' to next page 
+- Press 'w' to pre page 
+- Press 'a' to hide content panel
+- click button on right side panel to save progress
