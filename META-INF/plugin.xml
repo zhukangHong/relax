@@ -1,0 +1,33 @@
+<idea-plugin>
+  <id>cn.iamkb</id>
+  <name>relax</name>
+  <version>1.0</version>
+  <vendor email="414251867@qq.com" url="http://www.iamkb.cn">iamkb</vendor>
+
+  <description>这是一个辅助开发的插件</description>
+
+  <change-notes>
+    1.0:
+        开发插件简易模型
+  </change-notes>
+
+  <!-- please see https://plugins.jetbrains.com/docs/intellij/build-number-ranges.html for description -->
+  <idea-version since-build="202.0"/>
+
+  <!-- please see https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html
+       on how to target different products -->
+  <depends>com.intellij.modules.platform</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <!-- Add your extensions here -->
+  </extensions>
+
+  <actions>
+    <!-- Add your actions here -->
+      <action id="OpenRead" class="ReadWidowsAction" text="ReadWidowsAction" description="open read windows">
+          <add-to-group group-id="HelpMenu" anchor="last"/>
+          <keyboard-shortcut keymap="$default" first-keystroke="ctrl alt 0"/>
+      </action>
+  </actions>
+
+</idea-plugin>
