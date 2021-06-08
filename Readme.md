@@ -9,14 +9,21 @@ download the .ZIP file,drop it to your idea windows will install automatically,t
 The source code has written a fixed path to load configuration file.The path and filename is **E://config.properties**
 The properties file must has follow entry
 
-1. offset=0   #The progress of  book you,the unit is chinese word
-2. size=40    #The page size pre page
-3. bookUrl=e\://book.txt  #TXT absolute path 
+#The progress of  book you,the unit is chinese word,you can modify it to skip some chapters
+offset=0  
 
-## use
+ #The page size pre page,if your screen is large,you can set it bigger to show more
+size=40     
+
+#TXT absolute path 
+bookUrl=e\://book.txt  
+
+## USAGE
 Click  Top-Toolbar path: Help-Read,it will show a windows on the Bottom-toolbar.
 **MUST HAS FOCUS ON THE PANEL**
 - Press 'q' to next page 
 - Press 'w' to pre page 
 - Press 'a' to hide content panel
 - click button on right side panel to save progress
+
+
