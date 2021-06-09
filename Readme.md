@@ -26,4 +26,24 @@ Click  Top-Toolbar path: Help-Read,it will show a windows on the Bottom-toolbar.
 - Press 'a' to hide content panel
 - click button on right side panel to save progress
 
+## SCREENSHOT
+First, check enable the plugins,**File-Setting-Plugins**
+[](https://iamkb.oss-cn-hongkong.aliyuncs.com/image/plugins/enable.png)
+
+When you click the menu in **Help-Read**,it will show this frame
+[](https://iamkb.oss-cn-hongkong.aliyuncs.com/image/plugins/%E5%90%AF%E5%8A%A8.png)
+
+When you press q ,you will see the content
+[](https://iamkb.oss-cn-hongkong.aliyuncs.com/image/plugins/start.png)
+
+If your boss apprea behind you suddenly,quick press 'a' that he may think you are working hard
+[](https://iamkb.oss-cn-hongkong.aliyuncs.com/image/plugins/hide.png)
+
+Finally,if you are tired,click the button on right side  to save you progress,its very hard to find
+[](https://iamkb.oss-cn-hongkong.aliyuncs.com/image/plugins/save.png)
+
+## CONTACT
+If you have any good idea for this plugins,you can contact me whenever
+email：414251867@qq.com
+
 
