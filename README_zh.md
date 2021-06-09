@@ -1,4 +1,4 @@
-**简体中文 | [English](https://github.com/zhukangHong/relax/blob/master/Readme.md) |**<br>
+**简体中文 | [English](https://github.com/zhukangHong/relax/blob/master/README.md) |**<br>
 
 # 概述
 这是一款IDEA插件，主要用于~~提高工作效率~~ 阅读，支持上翻下翻一键隐藏和保存进度
