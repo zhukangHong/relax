@@ -1,4 +1,4 @@
-**[简体中文](https://github.com/zhukangHong/relax/blob/master/README_zh.md) | English | <br>
+**[简体中文]**(https://github.com/zhukangHong/relax/blob/master/README_zh.md) **| English | **<br>
 
 # SUMMARY
 The plugin of JetBrain Idea.Major use for read novel in your work time.It support next-page,pre-page  and one key  disappear,save progress manually
