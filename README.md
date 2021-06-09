@@ -12,12 +12,15 @@ The source code has written a fixed path to load configuration file.The path and
 The properties file must has follow entry
 
 #The progress of  book you,the unit is chinese word,you can modify it to skip some chapters
+
 offset=0  
 
- #The page size pre page,if your screen is large,you can set it bigger to show more
+#The page size pre page,if your screen is large,you can set it bigger to show more
+ 
 size=40     
 
 #TXT absolute path 
+
 bookUrl=e\://book.txt  
 
 ## USAGE
